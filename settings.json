@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "nesadi",
-    "password": "",
+    "username": "SlashCat67",
+    "password": "pemith@1234",
     "type": "offline"
   },
   "server": {
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 240,
       "messages": [
-        "hellow mother fucker",
-        "hukan nathuwa palayan mahaththayo yana ",
-        "powerd by pemit hh4x"
+        "ummaaa",
+        "hiiiii lassana lamayoooo",
+        "ahhhhhhh"
       ]
     },
     "chat-log": true,
@@ -74,11 +74,11 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "",
+    "webhookUrl": " https://discord.com/api/webhooks/1549600789293695066/TAduKQbNkR5F2MiZKHou84Z4yQ236Bt9zvNVLto8sA7ZMdjlNoQNJsFgmt4qGqwBRAyW",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
